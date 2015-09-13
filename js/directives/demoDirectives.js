@@ -1,0 +1,1 @@
+﻿var demoDirectives = angular.module('demoDirectives',[]);
